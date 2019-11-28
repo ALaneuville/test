@@ -1,0 +1,95 @@
+19/08/2019 16:00:39 AppLogger - Initializing the Driver
+19/08/2019 16:00:45 AppLogger - url: https://tasteofhome.com/collection/fall-vegetarian-recipes/?showads=1
+19/08/2019 16:02:13 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/prearticle
+19/08/2019 16:02:13 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/prearticle
+19/08/2019 16:02:13 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/prearticle is match with expected Ad Unit value: /6178/toh_desktop/listicle/prearticle
+19/08/2019 16:02:13 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/content_10
+19/08/2019 16:02:13 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/content_10
+19/08/2019 16:02:13 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/content_10 is match with expected Ad Unit value: /6178/toh_desktop/listicle/content_10
+19/08/2019 16:02:13 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/content_11
+19/08/2019 16:02:13 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/content_11
+19/08/2019 16:02:13 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/content_11 is match with expected Ad Unit value: /6178/toh_desktop/listicle/content_11
+19/08/2019 16:02:13 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/content_12
+19/08/2019 16:02:13 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/content_12
+19/08/2019 16:02:13 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/content_12 is match with expected Ad Unit value: /6178/toh_desktop/listicle/content_12
+19/08/2019 16:02:13 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/content_13
+19/08/2019 16:02:13 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/content_13
+19/08/2019 16:02:13 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/content_13 is match with expected Ad Unit value: /6178/toh_desktop/listicle/content_13
+19/08/2019 16:02:13 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/content_1
+19/08/2019 16:02:13 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/content_1
+19/08/2019 16:02:13 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/content_1 is match with expected Ad Unit value: /6178/toh_desktop/listicle/content_1
+19/08/2019 16:02:13 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/content_2
+19/08/2019 16:02:13 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/content_2
+19/08/2019 16:02:13 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/content_2 is match with expected Ad Unit value: /6178/toh_desktop/listicle/content_2
+19/08/2019 16:02:14 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/content_3
+19/08/2019 16:02:14 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/content_3
+19/08/2019 16:02:14 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/content_3 is match with expected Ad Unit value: /6178/toh_desktop/listicle/content_3
+19/08/2019 16:02:14 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/content_4
+19/08/2019 16:02:14 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/content_4
+19/08/2019 16:02:14 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/content_4 is match with expected Ad Unit value: /6178/toh_desktop/listicle/content_4
+19/08/2019 16:02:14 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/content_5
+19/08/2019 16:02:14 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/content_5
+19/08/2019 16:02:14 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/content_5 is match with expected Ad Unit value: /6178/toh_desktop/listicle/content_5
+19/08/2019 16:02:14 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/content_6
+19/08/2019 16:02:14 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/content_6
+19/08/2019 16:02:14 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/content_6 is match with expected Ad Unit value: /6178/toh_desktop/listicle/content_6
+19/08/2019 16:02:14 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/content_7
+19/08/2019 16:02:14 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/content_7
+19/08/2019 16:02:14 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/content_7 is match with expected Ad Unit value: /6178/toh_desktop/listicle/content_7
+19/08/2019 16:02:14 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/content_8
+19/08/2019 16:02:14 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/content_8
+19/08/2019 16:02:14 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/content_8 is match with expected Ad Unit value: /6178/toh_desktop/listicle/content_8
+19/08/2019 16:02:14 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/content_9
+19/08/2019 16:02:14 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/content_9
+19/08/2019 16:02:14 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/content_9 is match with expected Ad Unit value: /6178/toh_desktop/listicle/content_9
+19/08/2019 16:02:14 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/oop
+19/08/2019 16:02:14 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/oop
+19/08/2019 16:02:14 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/oop is match with expected Ad Unit value: /6178/toh_desktop/listicle/oop
+19/08/2019 16:02:15 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/rail_10
+19/08/2019 16:02:15 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/rail_10
+19/08/2019 16:02:15 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/rail_10 is match with expected Ad Unit value: /6178/toh_desktop/listicle/rail_10
+19/08/2019 16:02:15 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/rail_11
+19/08/2019 16:02:15 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/rail_11
+19/08/2019 16:02:15 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/rail_11 is match with expected Ad Unit value: /6178/toh_desktop/listicle/rail_11
+19/08/2019 16:02:15 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/rail_12
+19/08/2019 16:02:15 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/rail_12
+19/08/2019 16:02:15 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/rail_12 is match with expected Ad Unit value: /6178/toh_desktop/listicle/rail_12
+19/08/2019 16:02:15 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/rail_13
+19/08/2019 16:02:15 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/rail_13
+19/08/2019 16:02:15 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/rail_13 is match with expected Ad Unit value: /6178/toh_desktop/listicle/rail_13
+19/08/2019 16:02:15 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/rail_14
+19/08/2019 16:02:15 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/rail_14
+19/08/2019 16:02:15 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/rail_14 is match with expected Ad Unit value: /6178/toh_desktop/listicle/rail_14
+19/08/2019 16:02:15 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/rail_15
+19/08/2019 16:02:15 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/rail_15
+19/08/2019 16:02:15 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/rail_15 is match with expected Ad Unit value: /6178/toh_desktop/listicle/rail_15
+19/08/2019 16:02:15 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/rail_1
+19/08/2019 16:02:15 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/rail_1
+19/08/2019 16:02:15 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/rail_1 is match with expected Ad Unit value: /6178/toh_desktop/listicle/rail_1
+19/08/2019 16:02:15 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/rail_2
+19/08/2019 16:02:15 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/rail_2
+19/08/2019 16:02:15 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/rail_2 is match with expected Ad Unit value: /6178/toh_desktop/listicle/rail_2
+19/08/2019 16:02:15 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/rail_3
+19/08/2019 16:02:15 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/rail_3
+19/08/2019 16:02:15 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/rail_3 is match with expected Ad Unit value: /6178/toh_desktop/listicle/rail_3
+19/08/2019 16:02:15 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/rail_4
+19/08/2019 16:02:15 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/rail_4
+19/08/2019 16:02:15 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/rail_4 is match with expected Ad Unit value: /6178/toh_desktop/listicle/rail_4
+19/08/2019 16:02:16 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/rail_5
+19/08/2019 16:02:16 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/rail_5
+19/08/2019 16:02:16 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/rail_5 is match with expected Ad Unit value: /6178/toh_desktop/listicle/rail_5
+19/08/2019 16:02:16 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/rail_6
+19/08/2019 16:02:16 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/rail_6
+19/08/2019 16:02:16 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/rail_6 is match with expected Ad Unit value: /6178/toh_desktop/listicle/rail_6
+19/08/2019 16:02:16 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/rail_7
+19/08/2019 16:02:16 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/rail_7
+19/08/2019 16:02:16 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/rail_7 is match with expected Ad Unit value: /6178/toh_desktop/listicle/rail_7
+19/08/2019 16:02:16 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/rail_8
+19/08/2019 16:02:16 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/rail_8
+19/08/2019 16:02:16 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/rail_8 is match with expected Ad Unit value: /6178/toh_desktop/listicle/rail_8
+19/08/2019 16:02:16 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/rail_9
+19/08/2019 16:02:16 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/rail_9
+19/08/2019 16:02:16 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/rail_9 is match with expected Ad Unit value: /6178/toh_desktop/listicle/rail_9
+19/08/2019 16:02:16 AppLogger - Actual Ad unit value fetched from UI is:  /6178/toh_desktop/listicle/sponsor
+19/08/2019 16:02:16 AppLogger - Expected Ad unit value fetched from test data is:  /6178/toh_desktop/listicle/sponsor
+19/08/2019 16:02:16 AppLogger - The actual Ad Unit value: /6178/toh_desktop/listicle/sponsor is match with expected Ad Unit value: /6178/toh_desktop/listicle/sponsor

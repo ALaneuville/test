@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Global_Variables_Suite">
+<listeners>
+		<listener class-name="com.wp.listener.ExtentReporterNG" />
+	</listeners>
+  <test name="Test">
+    <classes>
+      <class name="com.wp.wpqa_64_verify_global_variables_TOH.VerifyCampaignId_TOH_RecipeDetailPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_SRD.VerifyGlobalVariables_SRD_HomePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_RDC.VerifyGlobalVariables_RDC_VideoHubPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_TOH.VerifyGlobalVariables_TOH_ArticlePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_SRD.VerifyGlobalVariables_SRD_RecipeDetailPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_SRD.VerifyGlobalVariables_SRD_VideoHubPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_TOH.VerifyGlobalVariables_TOH_HubPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_BHC.VerifyGlobalVariables_BHC_RecipeDetailPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_RDC.VerifyGlobalVariables_RDC_HubPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_FHM.VerifyGlobalVariables_FHM_ProjectDetail"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_RDC.VerifyGlobalVariables_RDC_RecipeDetailPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_RDC.VerifyGlobalVariables_RDC_Page"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_RD.VerifyGlobalVariables_RD_ArticlePage"/>
+      <!-- <class name="com.wp.wpqa_64_verify_IX_ads_load_within_timeout.ConfirmIXLoadWithinTimeout"/> -->
+      <class name="com.wp.wpqa_64_verify_global_variables_FHM.VerifyGlobalVariables_FHM_VideoHubPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_BHC.VerifyGlobalVariables_BHC_HomePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_TOH.VerifyGlobalVariables_TOH_Page"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_TOH.VerifyGlobalVariables_TOH_RecipeDetailPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_BHC.VerifyGlobalVariables_BHC_HubPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_FHM.VerifyGlobalVariables_FHM_ListiclePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_BHC.VerifyGlobalVariables_BHC_VideoHubPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_SRD.VerifyGlobalVariables_SRD_ListiclePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_TOH.VerifyGlobalVariables_TOH_HomePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_FHM.VerifyGlobalVariables_FHM_Page"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_FHM.VerifyGlobalVariables_FHM_HubPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_SRD.VerifyGlobalVariables_SRD_Page"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_RD.VerifyGlobalVariables_RD_ListiclePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_RDC.VerifyGlobalVariables_RDC_HomePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_RD.VerifyGlobalVariables_RD_VideoHubPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_RDC.VerifyGlobalVariables_RDC_ArticlePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_RD.VerifyGlobalVariables_RD_Page"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_BHC.VerifyGlobalVariables_BHC_Page"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_SRD.VerifyGlobalVariables_SRD_HubPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_RD.VerifyGlobalVariables_RD_HubPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_TOH.VerifyGlobalVariables_TOH_ListiclePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_BHC.VerifyGlobalVariables_BHC_ListiclePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_FHM.VerifyGlobalVariables_FHM_HomePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_BHC.VerifyGlobalVariables_BHC_ArticlePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_FHM.VerifyGlobalVariables_FHM_ArticlePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_RD.VerifyGlobalVariables_RD_HomePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_RDC.VerifyGlobalVariables_RDC_ListiclePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_RD.VerifyGlobalVariables_RD_JokeHubPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_SRD.VerifyGlobalVariables_SRD_ArticlePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_TOH.VerifyGlobalVariables_TOH_VideoHubPage"/>
+	  <class name="com.wp.wpqa_64_verify_global_variables_HLT.VerifyGlobalVariables_HLT_HubPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_HLT.VerifyGlobalVariables_HLT_ListiclePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_HLT.VerifyGlobalVariables_HLT_Page"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_HLT.VerifyGlobalVariables_HLT_HomePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_HLT.VerifyGlobalVariables_HLT_ArticlePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_HLT.VerifyGlobalVariables_HLT_VideoHubPage"/>
+    <class name="com.wp.wpqa_64_verify_global_variables_CPT.VerifyGlobalVariables_CPT_VideoHubPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_CPT.VerifyGlobalVariables_CPT_ArticlePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_CPT.VerifyGlobalVariables_CPT_Page"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_CPT.VerifyGlobalVariables_CPT_HubPage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_CPT.VerifyGlobalVariables_CPT_ListiclePage"/>
+      <class name="com.wp.wpqa_64_verify_global_variables_CPT.VerifyGlobalVariables_CPT_HomePage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

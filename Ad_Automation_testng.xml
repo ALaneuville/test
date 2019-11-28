@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ad_Automation_Key_Attributes_Validation_Suite">
+<listeners>
+		<listener class-name="com.wp.listener.ExtentReporterNG" />
+	</listeners>
+  <test name="Ad_Key_Attributes_Validation">
+     <classes>
+	<class name="com.wp.wpqa_65_check_for_key_values_RD.ConfirmKeyValuesInRD_ListiclePage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_RD.ConfirmKeyValuesInRD_VideoHubPage"/>
+      <class name="com.wp.wpqa_65_check_for_key_value_tc.Confirmtc_HasValueFHM"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_FHM.ConfirmKeyValuesInFHM_Page"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_TOH.ConfirmKeyValuesInTOH_RecipeDetail"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_TOH.ConfirmKeyValuesInTOH_HubPage"/>
+      <class name="com.wp.wpqa_65_check_for_key_value_tc.Confirmtc_HasValueRD"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_TOH.ConfirmKeyValuesInTOH_VideoHubPage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_FHM.ConfirmKeyValuesInFHM__HomePage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_FHM.ConfirmKeyValuesInFHM__VideoPage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_RD.ConfirmKeyValuesInRD_Page"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_RD.ConfirmKeyValuesInRD_HubPage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_RD.ConfirmKeyValuesInRD_ArticlePage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_RD.ConfirmKeyValuesInRD_JokePage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_TOH.ConfirmKeyValuesInTOH_HomePage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_TOH.ConfirmKeyValuesInTOH_ArticlePage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_TOH.ConfirmKeyValuesInTOH_Page"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_FHM.ConfirmKeyValuesInFHM__ArticlePage"/>
+      <class name="com.wp.wpqa_65_check_for_key_value_tc.Confirmtc_HasValueTOH"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_FHM.ConfirmKeyValuesInFHM__ProjectDetail"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_FHM.ConfirmKeyValuesInFHM__HubPage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_RD.ConfirmKeyValuesInRD_HomePage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_TOH.ConfirmKeyValuesInTOH_ListiclePage"/>
+     <class name="com.wp.wpqa_65_check_for_key_values_FHM.ConfirmKeyValuesInFHM__ListiclePage"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_BHC.ConfirmKeyValuesInBHC_HomePage"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_SRD.ConfirmKeyValuesInSRD_ListiclePage"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_RDC.ConfirmKeyValuesIn_RDC_ListiclePage"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_BHC.ConfirmKeyValuesInBHC_ListiclePage"/>
+      <class name="com.wp.wpqa_76_check_for_key_value_tc_RDC.ConfirmKeyValue_tc_In_RDC"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_BHC.ConfirmKeyValuesInBHC_RecipeDetail"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_SRD.ConfirmKeyValuesInSRD_Page"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_BHC.ConfirmKeyValuesInBHC_ArticlePage"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_BHC.ConfirmKeyValuesInBHC_Page"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_RDC.ConfirmKeyValuesIn_RDC_Article"/>
+      <class name="com.wp.wpqa_76_check_for_key_value_tc_SRD.ConfirmKeyValue_tc_SRD"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_RDC.ConfirmKeyValuesIn_RDC_RecipeDetailPage"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_SRD.ConfirmKeyValuesInSRD_RecipeDetail"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_SRD.ConfirmKeyValuesInSRD_ArticlePage"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_SRD.ConfirmKeyValuesInSRD_HomePage"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_RDC.ConfirmKeyValuesIn_RDC_HomePage"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_SRD.ConfirmKeyValuesInSRD_HubPage"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_BHC.ConfirmKeyValuesInBHC_HubPage"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_RDC.ConfirmKeyValuesIn_RDC_HubPage"/>
+      <class name="com.wp.wpqa_76_check_for_key_value_tc_BHC.ConfirmKeyValue_tc_BHC"/>
+      <class name="com.wp.wpqa_76_check_for_key_values_RDC.ConfirmKeyValuesIn_RDC_Page"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_HLT.ConfirmKeyValuesInHLT_HomePage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_HLT.ConfirmKeyValuesInHLT_ArticlePage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_HLT.ConfirmKeyValuesInHLT_HubPage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_HLT.ConfirmKeyValuesInHLT_Page"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_HLT.ConfirmKeyValuesInHLT_VideoHubPage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_HLT.ConfirmKeyValuesInHLT_ListiclePage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_TOH.ConfirmSponsorsKeyValuesInTOH_NativeAdsArticlePage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_FHM.ConfirmSponsorsKeyValuesInFHM_NativeAdsArticlePage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_RD.ConfirmSponsorsKeyValuesInRD_NativeAdsArticlePage"/>
+       <class name="com.wp.wpqa_65_check_for_key_values_CPT.ConfirmKeyValuesInCPT_ListiclePage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_CPT.ConfirmKeyValuesInCPT_ArticlePage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_CPT.ConfirmKeyValuesInCPT_HubPage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_CPT.ConfirmKeyValuesInCPT_Page"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_CPT.ConfirmKeyValuesInCPT_VideoHubPage"/>
+      <class name="com.wp.wpqa_65_check_for_key_values_CPT.ConfirmKeyValuesInCPT_HomePage"/>
+    </classes>
+  </test> <!-- Ad_Key_Attributes_Validation -->
+</suite> <!-- Ad_Automation_Key_Attributes_Validation_Suite -->

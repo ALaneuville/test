@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Global_Variables_Partner_Suite">
+<listeners>
+		<listener class-name="com.wp.listener.ExtentReporterNG" />
+	</listeners>
+  <test name="Test">
+    <classes>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_SRD.VerifyGlobalVariablesPartnerList_SRD_RecipeDetailPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_FHM.VerifyGlobalVariablesPartnerList_FHM_HomePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_TOH.VerifyGlobalVariablesPartnerList_TOH_ArticlePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_SRD.VerifyGlobalVariablesPartnerList_SRD_ListiclePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_RDC.VerifyGlobalVariablesPartnerList_RDC_Page"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_BHC.VerifyGlobalVariablesPartnerList_BHC_ArticlePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_FHM.VerifyGlobalVariablesPartnerList_FHM_ListiclePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_FHM.VerifyGlobalVariablesPartnerList_FHM_ProjectDetailPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_SRD.VerifyGlobalVariablesPartnerList_SRD_HubPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_BHC.VerifyGlobalVariablesPartnerList_BHC_HubPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_BHC.VerifyGlobalVariablesPartnerList_BHC_ListiclePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_SRD.VerifyGlobalVariablesPartnerList_SRD_Page"/>
+      <!--<class name="com.wp.wpqa_130_verify_jwplayer_loads_under_timeout.ConfirmJWPlayerLoadTime"/> 
+	<class name="com.wp.wpqa_130_verify_global_variables_partner_list_CPT.VerifyGlobalVariablesPartnerList_CPT_HubPage"/>
+	 <class name="com.wp.wpqa_130_verify_global_variables_partner_list_CPT.VerifyGlobalVariablesPartnerList_CPT_VideoHubPage"/>
+	<class name="com.wp.wpqa_130_verify_global_variables_partner_list_CPT.VerifyGlobalVariablesPartnerList_CPT_HomePage"/>
+	 <class name="com.wp.wpqa_130_verify_global_variables_partner_list_CPT.VerifyGlobalVariablesPartnerList_CPT_ListiclePage"/>
+	<class name="com.wp.wpqa_130_verify_global_variables_partner_list_CPT.VerifyGlobalVariablesPartnerList_CPT_ArticlePage"/>
+ 	<class name="com.wp.wpqa_130_verify_global_variables_partner_list_CPT.VerifyGlobalVariablesPartnerList_CPT_Page"/>-->
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_TOH.VerifyGlobalVariablesPartnerList_TOH_HubPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_FHM.VerifyGlobalVariablesPartnerList_FHM_ArticlePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_FHM.VerifyGlobalVariablesPartnerList_FHM_HubPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_FHM.VerifyGlobalVariablesPartnerList_FHM_Page"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_RD.VerifyGlobalVariablesPartnerList_RD_HubPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_RDC.VerifyGlobalVariablesPartnerList_RDC_VideoHubPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_RDC.VerifyGlobalVariablesPartnerList_RDC_HomePage"/>
+      <!-- <class name="com.wp.wpqa_130_verify_bounce_exchange_loads_under_timeout.ConfirmBounceExchangeRunsUnderTimeout"/> -->
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_RDC.VerifyGlobalVariablesPartnerList_RDC_HubPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_SRD.VerifyGlobalVariablesPartnerList_SRD_HomePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_BHC.VerifyGlobalVariablesPartnerList_BHC_VideoHubPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_SRD.VerifyGlobalVariablesPartnerList_SRD_VideoHubPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_BHC.VerifyGlobalVariablesPartnerList_BHC_HomePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_FHM.VerifyGlobalVariablesPartnerList_FHM_VideoHubPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_TOH.VerifyGlobalVariablesPartnerList_TOH_ListiclePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_BHC.VerifyGlobalVariablesPartnerList_BHC_RecipeDetailPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_TOH.VerifyGlobalVariablesPartnerList_TOH_VideoHubPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_BHC.VerifyGlobalVariablesPartnerList_BHC_Page"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_RD.VerifyGlobalVariablesPartnerList_RD_JokeHubPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_RD.VerifyGlobalVariablesPartnerList_RD_ListiclePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_RD.VerifyGlobalVariablesPartnerList_RD_HomePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_SRD.VerifyGlobalVariablesPartnerList_SRD_ArticlePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_RD.VerifyGlobalVariablesPartnerList_RD_ArticlePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_RD.VerifyGlobalVariablesPartnerList_RD_Page"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_RDC.VerifyGlobalVariablesPartnerList_RDC_RecipeDetailPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_RDC.VerifyGlobalVariablesPartnerList_RDC_ListiclePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_RD.VerifyGlobalVariablesPartnerList_RD_VideoHubPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_TOH.VerifyGlobalVariablesPartnerList_TOH_HomePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_TOH.VerifyGlobalVariablesPartnerList_TOH_Page"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_TOH.VerifyGlobalVariablesPartnerList_TOH_RecipeDetailPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_RDC.VerifyGlobalVariablesPartnerList_RDC_ArticlePage"/>
+	 <class name="com.wp.wpqa_130_verify_global_variables_partner_list_HLT.VerifyGlobalVariablesPartnerList_HLT_ArticlePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_HLT.VerifyGlobalVariablesPartnerList_HLT_HubPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_HLT.VerifyGlobalVariablesPartnerList_HLT_VideoHubPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_HLT.VerifyGlobalVariablesPartnerList_HLT_HomePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_HLT.VerifyGlobalVariablesPartnerList_HLT_ListiclePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_HLT.VerifyGlobalVariablesPartnerList_HLT_Page"/>
+   <class name="com.wp.wpqa_130_verify_global_variables_partner_list_CPT.VerifyGlobalVariablesPartnerList_CPT_HubPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_CPT.VerifyGlobalVariablesPartnerList_CPT_ArticlePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_CPT.VerifyGlobalVariablesPartnerList_CPT_ListiclePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_CPT.VerifyGlobalVariablesPartnerList_CPT_VideoHubPage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_CPT.VerifyGlobalVariablesPartnerList_CPT_HomePage"/>
+      <class name="com.wp.wpqa_130_verify_global_variables_partner_list_CPT.VerifyGlobalVariablesPartnerList_CPT_Page"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Global_Variables_Partner_Suite -->
